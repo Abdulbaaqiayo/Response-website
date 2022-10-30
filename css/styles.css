@@ -378,13 +378,13 @@ form {
         color: #ff0000;
     }
     .first-word{
-        font-size: 60px;
+        font-size: 35px;
         color: #000;
         padding: 20px 0 0 30px;
     }
     .second-head{
         margin-top: 40px;
-        font-size: 16px;
+        font-size: 12px;
         font-style: italic;
         padding-left: 30px;
         color: #a52;
